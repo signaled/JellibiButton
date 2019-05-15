@@ -1,7 +1,21 @@
 "Button" class for Jellibi
 ===============
 
+ [코드크런치 까페(네이버)](https://cafe.naver.com/codecrunch)   
 
+ <TABLE>
+ <TR><TD nowrap>
+     <a href="https://smartstore.naver.com/robotnmore" target=new>
+         <img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.robotnmore.com%2Fdownload%2Fcodecrunch%2Fcafe_door_20190225_01.jpg%22&type=cafe_wa740">
+     </a>    
+     <a href="https://www.facebook.com/codecrunch.official/" target=new>
+     <img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.robotnmore.com%2Fdownload%2Fcodecrunch%2Fcafe_door_20190225_02.jpg%22&type=cafe_wa740">
+     </a>
+     <a href="https://www.instagram.com/codecrunch.official/" target=new>
+     <img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.robotnmore.com%2Fdownload%2Fcodecrunch%2Fcafe_door_20190225_03.jpg%22&type=cafe_wa740">
+     </a>
+     </TD></TR>
+ </TABLE>
 
 아두이노 나노와 호환되는 젤리비보드에는 상하 좌우 방향키로 사용할 수 있는 네개의 버튼이 있습니다.
 버튼을 누르면 각 버튼에 연결된 Jellibi 의 핀(포트) 신호(GPIO, General Purpose Input Output)를 받게 됩니다. 
