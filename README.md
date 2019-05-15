@@ -47,7 +47,7 @@
 
    1.  웹브라우져에서 **JellibiButton** 라이브러리의 깃허브(https://github.com/signaled/JellibiButton)로  이동합니다.
    2. 깃허브의 Code 탭에서 [Clone or download] 버튼을 눌러 "zip" 파일로 다운로드를 선택합니다.  
-      ![Download](http://www.robotnmore.com/matthew/jellibibutton/download_button.png)
+      ![Download](http://www.robotnmore.com/matthew/jellibibutton/download_button2.png)
 
 2. **JellibiButton** 라이브러리 적용하기 
 
