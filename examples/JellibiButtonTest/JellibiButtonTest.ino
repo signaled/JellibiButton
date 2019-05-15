@@ -1,4 +1,4 @@
-#import <JellibiButton.h> 
+#include <JellibiButton.h> 
 
 JellibiButton _buttonUP;
 JellibiButton _buttonDown;
@@ -10,8 +10,8 @@ void setup()
     Serial.begin(115200);
     _buttonUP.Init(A0, true);
     _buttonDown.Init(A1, true);
-    _buttonRight.Init(2);
-    _buttonLeft.Init(4);
+    _buttonRight.Init(4);
+    _buttonLeft.Init(2);
 }
 void loop()
 {
@@ -19,9 +19,12 @@ void loop()
       Serial.print("UP\n");
     }
     if (_buttonDown.Check()) {
-      serial.Print("Down\n");
+      Serial.print("Down\n");
     }
     if (_buttonRight.Check()) {
-        Serial.print("Right\n");
+      Serial.print("Right\n");
+    }
+    if (_buttonLeft.Check()) {
+      Serial.print("Left\n");
     }
 }
