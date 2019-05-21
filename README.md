@@ -1,22 +1,31 @@
 "Button" class for Jellibi
 ===============
 
- [코드크런치 까페(네이버)](https://cafe.naver.com/codecrunch)   
 
- <TABLE>
- <TR><TD nowrap>
-     <a href="https://smartstore.naver.com/robotnmore" target=new>
-         <img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.robotnmore.com%2Fdownload%2Fcodecrunch%2Fcafe_door_20190225_01.jpg%22&type=cafe_wa740">
-     </a>    
-     <a href="https://www.facebook.com/codecrunch.official/" target=new>
-     <img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.robotnmore.com%2Fdownload%2Fcodecrunch%2Fcafe_door_20190225_02.jpg%22&type=cafe_wa740">
-     </a>
-     <a href="https://www.instagram.com/codecrunch.official/" target=new>
-     <img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.robotnmore.com%2Fdownload%2Fcodecrunch%2Fcafe_door_20190225_03.jpg%22&type=cafe_wa740">
-     </a>
-     </TD></TR>
- </TABLE>
-
+<table id="Table_01" width="855" height="102" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<a href="https://smartstore.naver.com/robotnmore" target="_blank" border="0">
+				<img src="http://www.robotnmore.com/img/rnm_sns01.jpg" width="215" height="102" alt="코드크런치스토어팜">
+			</a>
+		</td>
+		<td>
+			<a href="https://www.facebook.com/codecrunch.official/" target="_blank" border="0">
+				<img src="http://www.robotnmore.com/img/rnm_sns02.jpg" width="209" height="102" alt="코드크런치페이스북">
+			</a>
+		</td>
+		<td>
+			<a href="https://www.instagram.com/codecrunch.official/" target="_blank" border="0">
+				<img src="http://www.robotnmore.com/img/rnm_sns03.jpg" width="210" height="102" alt="코드크런치인스타그램">
+		</td>
+			</a>
+		<td>
+			<a href="https://cafe.naver.com/codecrunch" target="_blank" border="0">
+				<img src="http://www.robotnmore.com/img/rnm_sns04.jpg" width="221" height="102" alt="코드크런치네이버카페">
+			</a>
+		</td>
+	</tr>
+</table>
 아두이노 나노와 호환되는 젤리비보드에는 상하 좌우 방향키로 사용할 수 있는 네개의 버튼이 있습니다.
 버튼을 누르면 각 버튼에 연결된 Jellibi 의 핀(포트) 신호(GPIO, General Purpose Input Output)를 받게 됩니다. 
 
